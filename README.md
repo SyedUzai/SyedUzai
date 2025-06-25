@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SyedUzai/SyedUzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- GitHub Profile README in HTML -->
+<h1 align="center">Hello there, I'm Uzair</h1>
+<h3 align="center">Computer Engineering Student | Hardware Enthusiast | Embedded Systems Developer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/University%20of%20Guelph-Computer%20Engineering-red" alt="UofG Badge" />
+  <img src="https://img.shields.io/badge/Intern@AMD-Client%20Power%20&%20Performance-blue" alt="AMD Internship Badge" />
+</p>
+
+---
+
+<h2>✨ About Me</h2>
+<ul>
+  <li>👨‍🏫  I'm a Computer Engineering student at the University of Guelph.</li>
+  <li>🚀  Currently interning at <strong>AMD</strong> as a <em>Client Power & Performance Systems Engineer</em>.</li>
+  <li>🔌  Passionate about <strong>hardware</strong> — electrical design, mechanical design, and embedded programming.</li>
+  <li>🧐  I look forward to researching how <strong>AI can bridge with hardware</strong> to create smarter, more efficient systems.</li>
+</ul>
+
+<h2>📚 Skills</h2>
+<h3>Languages</h3>
+<ul>
+  <li>🔧 C, C++</li>
+  <li>🔧 Python, SQL</li>
+  <li>🔧 VHDL, Verilog</li>
+</ul>
+
+<h3>Tools & Software</h3>
+<ul>
+  <li>📏 SolidWorks (Mechanical Design)</li>
+  <li>📏 Altium Designer (PCB Design)</li>
+  <li>🚀 STM32CubeIDE & HAL Libraries</li>
+  <li>🚀 Espressif-IDF (ESP32 Development)</li>
+</ul>
+
+<h2>📊 Projects</h2>
+<p>
+  Check out my GitHub repositories to see what I've been working on:
+  <a href="https://github.com/syeduzai">github.com/syeduzai</a>
+</p>
+
+<h2>Let's Connect!</h2>
+<p>
+  Feel free to reach out or connect with me:
+  <br>
+  <a href="https://www.linkedin.com/in/syeduzai">🔗 LinkedIn</a>
+  <br>
+  Always open to collaborating on cool hardware or embedded projects!
+</p>
+
