@@ -50,12 +50,6 @@ Here are some ideas to get you started:
   <li>🚀 Espressif-IDF (ESP32 Development)</li>
 </ul>
 
-<h2>📊 Projects</h2>
-<p>
-  Check out my GitHub repositories to see what I've been working on:
-  <a href="https://github.com/syeduzai">github.com/syeduzai</a>
-</p>
-
 <h2>Let's Connect!</h2>
 <p>
   Feel free to reach out or connect with me:
