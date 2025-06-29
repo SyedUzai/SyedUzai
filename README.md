@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <h2>📚 Skills</h2>
 <h3>Languages</h3>
 <ul>
-  <li>🔧 C, C++</li>
+  <li>🔧 C, C++, Matlab</li>
   <li>🔧 Python, SQL</li>
   <li>🔧 VHDL, Verilog</li>
 </ul>
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <h3>Tools & Software</h3>
 <ul>
   <li>📏 SolidWorks (Mechanical Design)</li>
+  <li>📏 Fusion 360 (Mechanical Design)</li>
   <li>📏 Altium Designer (PCB Design)</li>
   <li>🚀 STM32CubeIDE & HAL Libraries</li>
   <li>🚀 Espressif-IDF (ESP32 Development)</li>
@@ -56,6 +57,6 @@ Here are some ideas to get you started:
   <br>
   <a href="https://www.linkedin.com/in/syeduzai">🔗 LinkedIn</a>
   <br>
-  Always open to collaborating on cool hardware or embedded projects!
+  Always open to collaborating on cool hardware projects!
 </p>
 
