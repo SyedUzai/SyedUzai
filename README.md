@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <ul>
   <li>👨‍🏫  I'm a Computer Engineering student at the University of Guelph.</li>
   <li>🚀  Currently interning at <strong>AMD</strong> as a <em>Client Power & Performance Systems Engineer</em>.</li>
-  <li>🔌  Passionate about <strong>hardware</strong> — electrical design, mechanical design, and embedded programming.</li>
+  <li>🔌  Passionate about <strong>hardware</strong> — Embedded Programming and GPU-accelerated computation.</li>
   <li>🧐  I look forward to researching how <strong>AI can bridge with hardware</strong> to create smarter, more efficient systems.</li>
 </ul>
 
