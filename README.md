@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Profile README in HTML -->
 <h1 align="center">Hello there, I'm Uzair</h1>
-<h3 align="center">Computer Engineering Student | Hardware Enthusiast | Embedded Systems Developer</h3>
+<h3 align="center">Computer Engineering Student | Hardware Enthusiast | C/C++ Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University%20of%20Guelph-Computer%20Engineering-red" alt="UofG Badge" />
@@ -44,11 +44,13 @@ Here are some ideas to get you started:
 
 <h3>Tools & Software</h3>
 <ul>
+  <li>🐍 CUDA (GPU-compute)</li>
+  <li>🚀 STM32CubeIDE & HAL Libraries</li>
+  <li>🚀 Espressif-IDF (ESP32 Development)</li>
   <li>📏 SolidWorks (Mechanical Design)</li>
   <li>📏 Fusion 360 (Mechanical Design)</li>
   <li>📏 Altium Designer (PCB Design)</li>
-  <li>🚀 STM32CubeIDE & HAL Libraries</li>
-  <li>🚀 Espressif-IDF (ESP32 Development)</li>
+
 </ul>
 
 <h2>Let's Connect!</h2>
