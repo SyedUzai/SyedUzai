@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Profile README in HTML -->
 <h1 align="center">Hello there, I'm Uzair</h1>
-<h3 align="center">Computer Engineering Student | Hardware Enthusiast | C/C++ Developer</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University%20of%20Guelph-Computer%20Engineering-red" alt="UofG Badge" />
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h2>✨ About Me</h2>
 <ul>
   <li>👨‍🏫  I'm a Computer Engineering student at the University of Guelph.</li>
-  <li>🚀  Currently interning at <strong>AMD</strong> as a <em>Client Power & Performance Systems Engineer</em>.</li>
+  <li>🚀  Previous intern at <strong>AMD</strong> as a <em>Client Power & Performance Systems Engineer</em>.</li>
   <li>🔌  Passionate about <strong>hardware</strong> — Embedded Programming and GPU-accelerated computation.</li>
   <li>🧐  I look forward to researching how <strong>AI can bridge with hardware</strong> to create smarter, more efficient systems.</li>
 </ul>
